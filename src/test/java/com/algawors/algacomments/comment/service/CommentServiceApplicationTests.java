@@ -8,6 +8,7 @@ class CommentServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//
 	}
 
 }
